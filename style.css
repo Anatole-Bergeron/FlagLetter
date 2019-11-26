@@ -1,0 +1,92 @@
+h1{
+	color: white;
+	margin: 0px !important;
+	padding-top: 100px;
+}
+
+a {
+text-decoration: none;
+}
+
+body {
+	font-family: 'Roboto', sans-serif; 
+	font-weight: lighter;
+	margin: 0px !important;
+}
+
+.banner{
+	background-image: url(images/banner3.jpeg);
+	padding-bottom: 150px ;
+	width: 100% ; 
+	background-size: cover;
+	background-repeat: no-repeat;
+	text-align: center;
+}
+
+.btn-red{
+	color: white;
+	padding: 15px;
+	background-color: red;
+	border-radius: 8px;
+	font-size: 20px;
+
+}
+
+.btn-red1{
+	color: white;
+	padding: 12px;
+	background-color: red;
+	border-radius: 8px;
+	font-size: 16px; 
+}
+
+.banner2{
+	padding-top: 50px;
+	margin-top: 150px;
+}
+
+.container{
+	display: flex;
+	height: 380px;
+	justify-content: space-between;
+}
+
+.container1{
+	display: flex;
+	height: 450px;
+	justify-content: space-between;
+}
+
+.card{
+	width: 50%;
+	background-color: white;
+	text-align: center;
+}
+
+.banner3{
+	margin-top: 250px
+}
+
+footer{
+	display: flex;
+	margin-top: 0px;
+	background-color: #6BA8A9;
+	color: white;
+	padding: 5px ;
+	justify-content: space-between;
+}
+
+nav{
+	display: flex;
+	background-color: #6BA8A9;
+	font-weight: bold;
+	font-size: 20px;
+	color: white;
+	padding: 25px;
+	justify-content: space-between;
+	
+}
+
+#linkedin {
+	color: white;
+}
